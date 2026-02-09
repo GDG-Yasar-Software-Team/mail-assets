@@ -31,3 +31,8 @@ build/
 # Temporary files
 *.tmp
 .cache/
+
+# Test files (with API keys and test scripts)
+send-email.js
+testMail.js
+newsletter.html
